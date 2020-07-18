@@ -12,6 +12,7 @@ This project was developed within the Reproducible Research course of the Data S
 
 - `activity.zip`: the data used in this project.
 - `PA1_template.Rmd`, `PA1_template.html`, `PA1_template.md`: contain my report for this project.
+  - Check html file here: https://m-couto.github.io/RepData_PeerAssessment1/PA1_template.html.
 - `Project_code.R`: contains the R code I wrote for this assignment.
 - `PA1_template_files/figure-html` folder: contains the pictures in my report.
 
